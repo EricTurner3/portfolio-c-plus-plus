@@ -1,0 +1,8 @@
+Employee Crate Information: 
+Length: 2
+Width: 2
+Height: 2
+Volume: 8
+Cost: 1.84
+Charge: 4
+Profit: 2.16
